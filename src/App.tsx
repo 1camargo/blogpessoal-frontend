@@ -4,7 +4,7 @@ import Footer from './components/footer/Footer';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Login from './pages/login/Login';
 import Cadastro from './pages/register/Cadastro';
-import Home from './pages/home/Home';
+import Home from './pages/Home/Home';
 import { AuthProvider } from './contexts/AuthContext';
 import ListaTemas from './components/themes/listaTemas/ListaTemas';
 import FormularioTema from './components/themes/formularioTema/FormularioTema';
